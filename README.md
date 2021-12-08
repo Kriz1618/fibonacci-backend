@@ -4,9 +4,9 @@ This repository contains the logic to calculate the fibonacci series
 ### 1. Create development environment
 1. First step, clone the following repository:
 
-    1. https://gitlab.coedition.com/augustus/api-roma
+    1. git@github.com:Kriz1618/fibonacci-backend.git
 
-    **Note:** Remember to have the ssh key configured in your gitlab account.
+    **Note:** Remember to have the ssh key configured in your github account.
 
 ### 2. Setup
 1. Run the following commands:
